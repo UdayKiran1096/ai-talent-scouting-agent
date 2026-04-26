@@ -31,3 +31,7 @@ streamlit run app.py
 - LLM-based JD parsing
 - Real candidate data integration
 - Live conversational agents
+
+## Architecture
+
+![Architecture](architecture.png)
